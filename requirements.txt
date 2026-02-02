@@ -1,0 +1,2 @@
+# Requires: paradoxical-ambiguity
+# (Not available on PyPI)
